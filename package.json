@@ -1,0 +1,8 @@
+{
+  "name": "dao-governance-timelock-controller",
+  "version": "1.0.0",
+  "description": "Professional DAO governance with timelock delay",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
